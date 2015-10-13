@@ -758,7 +758,7 @@
     &lt;h1&gt;作業任務&lt;/h1&gt;
     &lt;p&gt;閱讀SolveSpace英文教學並學會SolveSpace基本操作&lt;/p&gt;
     &lt;p&gt;步驟在下方介紹&lt;/p&gt;
- &lt;p&gt;請參考 &lt;a href="http://www.google.com"&gt;Google&lt;/a&gt;
+ &lt;p&gt;請參考 &lt;a href="http://solvespace.com/tutorial.pl"&gt;Solvespace 基本操作&lt;/a&gt;
 &lt;/section&gt;				
 </t>
 <t tx="01.20151008153301.9">&lt;section&gt;
