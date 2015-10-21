@@ -40,6 +40,7 @@
 <v t="01.20151001142512.1"><vh>@edit 2015cphww2.md</vh></v>
 <v t="01.20151001142534.1"><vh>@edit 2015cphww3.md</vh></v>
 <v t="01.20151008152824.1"><vh>@edit 2015cphww4.md</vh></v>
+<v t="01.20151015153657.1"><vh>@edit 2015cphww5.md</vh></v>
 <v t="01.20151001150342.1"><vh>@edit 2015cpnote1.md</vh></v>
 </v>
 <v t="amd.20150919120205.1"><vh>以下為 reveal 投影片</vh></v>
@@ -343,6 +344,21 @@
 </v>
 </v>
 <v t="01.20151008153301.10"><vh>script</vh></v>
+</v>
+</v>
+</v>
+<v t="01.20151021193330.1" a="E"><vh>@clean simplest5.html</vh>
+<v t="01.20151021193330.2"><vh>檔案說明</vh></v>
+<v t="01.20151021193330.3" a="E"><vh>html 標註</vh>
+<v t="01.20151021193330.4" a="E"><vh>body 標註</vh>
+<v t="01.20151021193330.5" a="E"><vh>div class="reveal"</vh>
+<v t="01.20151021193330.6" a="E"><vh>div class="slides"</vh>
+<v t="01.20151021193330.7"><vh>有關我的作業</vh></v>
+<v t="01.20151021193330.8"><vh>作業任務</vh></v>
+<v t="01.20151021193330.9"><vh>第3張投影片</vh></v>
+</v>
+</v>
+<v t="01.20151021193330.10"><vh>script</vh></v>
 </v>
 </v>
 </v>
@@ -750,9 +766,8 @@
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
     &lt;h1&gt;第四週作業&lt;/h1&gt;
-    &lt;p&gt;40323143陳靖廷 10/08&lt;/p&gt;		
+    &lt;p&gt;40323143陳靖廷 10/08&lt;/p&gt;	
 &lt;/section&gt;
-	
 </t>
 <t tx="01.20151008153301.8">&lt;section id="hw-task-one"&gt;
     &lt;h1&gt;作業任務&lt;/h1&gt;
@@ -767,6 +782,77 @@
     &lt;p&gt;自評 75分&lt;/p&gt;
     &lt;p&gt;已利用SolveSpace畫出成品&lt;/p&gt;
     &lt;p&gt;可以連結到內部投影片&lt;a href="#/hw-task-one"&gt;作業任務一&lt;/a&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="01.20151021193330.1">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="01.20151021193330.10">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx="01.20151021193330.2">&lt;!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
+且支援平行與垂直的投影片配置方法
+--&gt;
+</t>
+<t tx="01.20151021193330.3">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="01.20151021193330.4">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="01.20151021193330.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="01.20151021193330.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="01.20151021193330.7">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+    &lt;h1&gt;第五週作業&lt;/h1&gt;
+    &lt;p&gt;40323143陳靖廷 10/21&lt;/p&gt;	
+&lt;/section&gt;
+</t>
+<t tx="01.20151021193330.8">&lt;section id="hw-task-one"&gt;
+    &lt;h1&gt;作業任務&lt;/h1&gt;
+    &lt;p&gt;更新reveal成reveal2&lt;/p&gt;
+    &lt;p&gt;步驟在下方介紹&lt;/p&gt;
+&lt;/section&gt;				
+</t>
+<t tx="01.20151021193330.9">&lt;section&gt;
+    &lt;h1&gt;自評分數&lt;/h1&gt;
+    &lt;p&gt;成績自評分數的量化依據?&lt;/p&gt;
+    &lt;p&gt;自評 75分&lt;/p&gt;
+    &lt;p&gt;成功更新reveal成reveal2&lt;/p&gt;
 &lt;/section&gt;
 				
 </t>
@@ -2418,7 +2504,7 @@ ip.config.ProfileDir </t>
 <t tx="amd.20150919120205.1"></t>
 <t tx="amd.20150919124128.1">@language python
 import os
-os.system('''pelican pelican/content -o ./ -s pelican/publishconf.py -t theme/pelican-bootstrap3
+os.system('''pelican pelican/content -o ./ -s pelican/publishconf.py -t theme/pelican-octopress
 ''')
 g.es("pelican 執行完畢")</t>
 <t tx="ibm.20150918175403.1">@language xml

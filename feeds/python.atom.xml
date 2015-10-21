@@ -311,4 +311,20 @@ for i in 1 .. 10 { 呼叫特定函式(i) }
 &lt;p&gt;&lt;img src="w4hw06.png" width="250" alt="w4hw04"&gt;&lt;/img&gt;&lt;/p&gt;
 &lt;p&gt;(7)完成&lt;/p&gt;
 &lt;p&gt;&lt;img src="w4hw07.png" width="250" alt="w4hw04"&gt;&lt;/img&gt;&lt;/p&gt;
+&lt;p&gt;&lt;p&gt;&lt;a href="https://vimeo.com/137724068"&gt;Welcome Speech&lt;/a&gt; from &lt;a href="https://vimeo.com/user24079973"&gt;虎尾科大機械設計工程系 KMOL&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 電腦輔助設計實習 作業五</title><link href="http://example.com/2015cp_hw_w5.html" rel="alternate"></link><updated>2015-09-19T11:41:00+08:00</updated><author><name>coursemdetw</name></author><id>tag:example.com,2015-09-19:2015cp_hw_w5.html</id><summary type="html">&lt;p&gt;以下為作業四內容&lt;/p&gt;
+&lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
+&lt;iframe src="simplest5.html" width="500" height="300"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="simplest5.html" target="_blank"&gt;作業五投影片&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;更新reveal成reveal2步驟:&lt;/p&gt;
+&lt;p&gt;(1)下載reveal2&lt;/p&gt;
+&lt;p&gt;&lt;img src="w5hw01.png" width="250" alt="w5hw01"&gt;&lt;/img&gt;&lt;/p&gt;
+&lt;p&gt;(2)找到reveal2-gh-pages\theme中的pelican-octopress檔案&lt;/p&gt;
+&lt;p&gt;&lt;img src="w5hw02.png" width="250" alt="w5hw02"&gt;&lt;/img&gt;&lt;/p&gt;
+&lt;p&gt;(3)複製pelican-octopress到自己倉儲下的theme&lt;/p&gt;
+&lt;p&gt;&lt;img src="w5hw03.png" width="250" alt="w5hw03"&gt;&lt;/img&gt;&lt;/p&gt;
+&lt;p&gt;(4)開啟自己倉儲中的reveal.leo，把@button pelican content中的pelican-bootstrap3改成pelican-octopress&lt;/p&gt;
+&lt;p&gt;&lt;img src="w5hw04.png" width="250" alt="w5hw04"&gt;&lt;/img&gt;&lt;/p&gt;
+&lt;p&gt;(5)修改完成&lt;/p&gt;
+&lt;p&gt;&lt;img src="w5hw05.png" width="250" alt="w5hw05"&gt;&lt;/img&gt;&lt;/p&gt;
 &lt;p&gt;&lt;p&gt;&lt;a href="https://vimeo.com/137724068"&gt;Welcome Speech&lt;/a&gt; from &lt;a href="https://vimeo.com/user24079973"&gt;虎尾科大機械設計工程系 KMOL&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry></feed>
