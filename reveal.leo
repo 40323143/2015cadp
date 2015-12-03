@@ -43,6 +43,7 @@
 <v t="01.20151015153657.1"><vh>@edit 2015cphww5.md</vh></v>
 <v t="leo.20151029131715.1"><vh>@edit 2015cphww6.md</vh></v>
 <v t="leo.20151104201000.1"><vh>@edit 2015cphww7.md</vh></v>
+<v t="leo.20151203204701.1"><vh>@edit 2015cphww12.md</vh></v>
 <v t="01.20151001150342.1"><vh>@edit 2015cpnote1.md</vh></v>
 </v>
 <v t="amd.20150919120205.1"><vh>以下為 reveal 投影片</vh></v>
@@ -71,7 +72,7 @@
 </v>
 </v>
 </v>
-<v t="amd.20150915155634.1" a="E"><vh>@clean cadpaw1.html</vh>
+<v t="amd.20150915155634.1"><vh>@clean cadpaw1.html</vh>
 <v t="amd.20150915155634.2" a="E"><vh>html 標註</vh>
 <v t="amd.20150915155634.3"><vh>head</vh>
 <v t="amd.20150915155634.4"><vh>title - 標題</vh></v>
@@ -271,7 +272,7 @@
 </v>
 </v>
 </v>
-<v t="ibm.20150918175403.1" a="E"><vh>@clean cpw1.html</vh>
+<v t="ibm.20150918175403.1"><vh>@clean cpw1.html</vh>
 <v t="ibm.20150918175403.2"><vh>檔案說明</vh></v>
 <v t="ibm.20150918175403.3" a="E"><vh>html 標註</vh>
 <v t="ibm.20150918175403.4" a="E"><vh>body 標註</vh>
@@ -304,7 +305,7 @@
 </v>
 </v>
 </v>
-<v t="01.20151001143713.1" a="E"><vh>@clean simplest2.html</vh>
+<v t="01.20151001143713.1"><vh>@clean simplest2.html</vh>
 <v t="01.20151001143713.2"><vh>檔案說明</vh></v>
 <v t="01.20151001143713.3" a="E"><vh>html 標註</vh>
 <v t="01.20151001143713.4" a="E"><vh>body 標註</vh>
@@ -319,7 +320,7 @@
 </v>
 </v>
 </v>
-<v t="01.20151001144246.1" a="E"><vh>@clean simplest3.html</vh>
+<v t="01.20151001144246.1"><vh>@clean simplest3.html</vh>
 <v t="01.20151001144246.2"><vh>檔案說明</vh></v>
 <v t="01.20151001144246.3" a="E"><vh>html 標註</vh>
 <v t="01.20151001144246.4" a="E"><vh>body 標註</vh>
@@ -334,7 +335,7 @@
 </v>
 </v>
 </v>
-<v t="01.20151008153301.1" a="E"><vh>@clean simplest4.html</vh>
+<v t="01.20151008153301.1"><vh>@clean simplest4.html</vh>
 <v t="01.20151008153301.2"><vh>檔案說明</vh></v>
 <v t="01.20151008153301.3" a="E"><vh>html 標註</vh>
 <v t="01.20151008153301.4" a="E"><vh>body 標註</vh>
@@ -379,7 +380,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20151104201136.1" a="E"><vh>@clean simplest7.html</vh>
+<v t="leo.20151104201136.1"><vh>@clean simplest7.html</vh>
 <v t="leo.20151104201136.2"><vh>檔案說明</vh></v>
 <v t="leo.20151104201136.3" a="E"><vh>html 標註</vh>
 <v t="leo.20151104201136.4" a="E"><vh>body 標註</vh>
@@ -391,6 +392,21 @@
 </v>
 </v>
 <v t="leo.20151104201136.10"><vh>script</vh></v>
+</v>
+</v>
+</v>
+<v t="leo.20151203205452.1" a="E"><vh>@clean simplest12.html</vh>
+<v t="leo.20151203205452.2"><vh>檔案說明</vh></v>
+<v t="leo.20151203205452.3" a="E"><vh>html 標註</vh>
+<v t="leo.20151203205452.4" a="E"><vh>body 標註</vh>
+<v t="leo.20151203205452.5" a="E"><vh>div class="reveal"</vh>
+<v t="leo.20151203205452.6" a="E"><vh>div class="slides"</vh>
+<v t="leo.20151203205452.7"><vh>有關我的作業</vh></v>
+<v t="leo.20151203205452.8"><vh>作業任務</vh></v>
+<v t="leo.20151203205452.9"><vh>第3張投影片</vh></v>
+</v>
+</v>
+<v t="leo.20151203205452.10"><vh>script</vh></v>
 </v>
 </v>
 </v>
@@ -2817,6 +2833,77 @@ Diff...
     &lt;p&gt;成績自評分數的量化依據?&lt;/p&gt;
     &lt;p&gt;自評 75分&lt;/p&gt;
     &lt;p&gt;成功畫出一台腳踏車&lt;/p&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20151203205452.1">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="leo.20151203205452.10">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx="leo.20151203205452.2">&lt;!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
+且支援平行與垂直的投影片配置方法
+--&gt;
+</t>
+<t tx="leo.20151203205452.3">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="leo.20151203205452.4">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="leo.20151203205452.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20151203205452.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20151203205452.7">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+    &lt;h1&gt;第十二週作業&lt;/h1&gt;
+    &lt;p&gt;40323143陳靖廷 12/03&lt;/p&gt;	
+&lt;/section&gt;
+</t>
+<t tx="leo.20151203205452.8">&lt;section id="hw-task-one"&gt;
+    &lt;h1&gt;作業任務&lt;/h1&gt;
+    &lt;p&gt;&lt;a href="http://www.google.com"&gt;2015 Fall CADP W12&lt;/a&gt;
+    &lt;p&gt;詳細內容如下方影片&lt;/p&gt;
+&lt;/section&gt;				
+</t>
+<t tx="leo.20151203205452.9">&lt;section&gt;
+    &lt;h1&gt;自評分數&lt;/h1&gt;
+    &lt;p&gt;成績自評分數的量化依據?&lt;/p&gt;
+    &lt;p&gt;自評 60分&lt;/p&gt;
+    &lt;p&gt;有拍攝影片且任務達成&lt;/p&gt;
 &lt;/section&gt;
 				
 </t>
