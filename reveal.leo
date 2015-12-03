@@ -2895,7 +2895,7 @@ Diff...
 </t>
 <t tx="leo.20151203205452.8">&lt;section id="hw-task-one"&gt;
     &lt;h1&gt;作業任務&lt;/h1&gt;
-    &lt;p&gt;&lt;a href="http://www.google.com"&gt;2015 Fall CADP W12&lt;/a&gt;
+    &lt;p&gt;&lt;a href="http://wordpress-2015course.rhcloud.com/?p=4474"&gt;2015 Fall CADP W12&lt;/a&gt;
     &lt;p&gt;詳細內容如下方影片&lt;/p&gt;
 &lt;/section&gt;				
 </t>
