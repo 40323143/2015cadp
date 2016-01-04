@@ -1,7 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2015FALL KMOL 課程</title><link href="http://example.com/" rel="alternate"></link><link href="http://example.com/feeds/python.atom.xml" rel="self"></link><id>http://example.com/</id><updated>2015-12-03T11:41:00+08:00</updated><entry><title>2015 電腦輔助設計實習 作業十二</title><link href="http://example.com/2015cp_hw_w12.html" rel="alternate"></link><updated>2015-12-03T11:41:00+08:00</updated><author><name>coursemdetw</name></author><id>tag:example.com,2015-12-03:2015cp_hw_w12.html</id><summary type="html">&lt;p&gt;以下為作業十二內容&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2015FALL KMOL 課程</title><link href="http://example.com/" rel="alternate"></link><link href="http://example.com/feeds/python.atom.xml" rel="self"></link><id>http://example.com/</id><updated>2015-12-03T12:41:00+08:00</updated><entry><title>2015 電腦輔助設計實習 作業十五</title><link href="http://example.com/2015cp_hw_w15.html" rel="alternate"></link><updated>2015-12-03T12:41:00+08:00</updated><author><name>coursemdetw</name></author><id>tag:example.com,2015-12-03:2015cp_hw_w15.html</id><summary type="html">&lt;p&gt;以下為作業十五內容&lt;/p&gt;
+&lt;p&gt;作業內容投影片:&lt;/p&gt;
+&lt;iframe src=" cadp_w15_simplest.html" width="500" height="300"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="simplest7.html" target="_blank"&gt;作業十五投影片&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;在Onshape上畫CONNECTION:&lt;/p&gt;
+&lt;iframe src="https://player.vimeo.com/video/150161647" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;在Onshape上畫PISTON:&lt;/p&gt;
+&lt;p&gt;&lt;iframe src="https://player.vimeo.com/video/150161694" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;/p&gt;
+&lt;p&gt;在Onshape上畫組合圖:&lt;/p&gt;
+&lt;iframe src="https://player.vimeo.com/video/150161299" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Welcome Speech&lt;/a&gt; from &lt;a href="https://vimeo.com/user24079973"&gt;虎尾科大機械設計工程系 KMOL&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 電腦輔助設計實習 作業十六</title><link href="http://example.com/2015cp_hw_w16.html" rel="alternate"></link><updated>2015-12-03T12:41:00+08:00</updated><author><name>coursemdetw</name></author><id>tag:example.com,2015-12-03:2015cp_hw_w16.html</id><summary type="html">&lt;p&gt;以下為作業十六內容&lt;/p&gt;
+&lt;p&gt;作業內容投影片:&lt;/p&gt;
+&lt;iframe src=" cadp_w16_simplest.html" width="500" height="300"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="cadp_w16_simplest.html" target="_blank"&gt;作業十六投影片&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;手動計算:
+&lt;img src="content/w16.jpg" width="500" alt="手動計算"&gt;&lt;/img&gt;&lt;/p&gt;
+&lt;p&gt;Welcome Speech&lt;/a&gt; from &lt;a href="https://vimeo.com/user24079973"&gt;虎尾科大機械設計工程系 KMOL&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 電腦輔助設計實習 作業十二</title><link href="http://example.com/2015cp_hw_w12.html" rel="alternate"></link><updated>2015-12-03T11:41:00+08:00</updated><author><name>coursemdetw</name></author><id>tag:example.com,2015-12-03:2015cp_hw_w12.html</id><summary type="html">&lt;p&gt;以下為作業十二內容&lt;/p&gt;
 &lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
-&lt;iframe src="simplest12.html" width="500" height="300"&gt;&lt;/iframe&gt;
+&lt;iframe src="cadp_w12_simplest.html" width="500" height="300"&gt;&lt;/iframe&gt;
 
 &lt;p&gt;&lt;a href="simplest7.html" target="_blank"&gt;作業十二投影片&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;安裝leo影片:&lt;/p&gt;
@@ -14,6 +34,17 @@
 
 &lt;p&gt;creo組裝-2:&lt;/p&gt;
 &lt;iframe src="https://player.vimeo.com/video/147715247" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Welcome Speech&lt;/a&gt; from &lt;a href="https://vimeo.com/user24079973"&gt;虎尾科大機械設計工程系 KMOL&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 電腦輔助設計實習 作業十ㄧ</title><link href="http://example.com/2015cp_hw_w11.html" rel="alternate"></link><updated>2015-12-03T10:41:00+08:00</updated><author><name>coursemdetw</name></author><id>tag:example.com,2015-12-03:2015cp_hw_w11.html</id><summary type="html">&lt;p&gt;以下為作業十一內容&lt;/p&gt;
+&lt;p&gt;作業內容投影片:&lt;/p&gt;
+&lt;iframe src=" cadp_w11_simplest.html" width="500" height="300"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="simplest7.html" target="_blank"&gt;作業十二投影片&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;creo-CYLINDER:&lt;/p&gt;
+&lt;iframe src="https://player.vimeo.com/video/149247675" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;creo-CONNECTION:&lt;/p&gt;
+&lt;iframe src="https://player.vimeo.com/video/149249005" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
 &lt;p&gt;Welcome Speech&lt;/a&gt; from &lt;a href="https://vimeo.com/user24079973"&gt;虎尾科大機械設計工程系 KMOL&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 計算機程式 Jupyter</title><link href="http://example.com/2015cp_note1.html" rel="alternate"></link><updated>2015-09-19T21:41:00+08:00</updated><author><name>coursemdetw</name></author><id>tag:example.com,2015-09-19:2015cp_note1.html</id><summary type="html">&lt;p&gt;以下為 Jupyter notebook 檔案內容:&lt;/p&gt;
 &lt;p&gt;{% notebook demo.ipynb %}&lt;/p&gt;</summary><category term="Jupyter"></category><category term="IPython"></category></entry><entry><title>2015 電腦輔助設計實習 作業一</title><link href="http://example.com/2015cp_hw_w1.html" rel="alternate"></link><updated>2015-09-19T11:41:00+08:00</updated><author><name>coursemdetw</name></author><id>tag:example.com,2015-09-19:2015cp_hw_w1.html</id><summary type="html">&lt;p&gt;以下為作業一內容&lt;/p&gt;
