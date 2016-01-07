@@ -46,7 +46,7 @@
 <v t="leo.20160104200213.1"><vh>@edit 2015cphww11.md</vh></v>
 <v t="leo.20151203204701.1"><vh>@edit 2015cphww12.md</vh></v>
 <v t="leo.20160104200245.1"><vh>@edit 2015cphww15.md</vh></v>
-<v t="leo.20160104200312.1"><vh>@edit 2015cphww16.md</vh></v>
+<v t="leo.20160107160728.1"><vh>@edit 2015cphww16.md</vh></v>
 <v t="01.20151001150342.1"><vh>@edit 2015cpnote1.md</vh></v>
 </v>
 <v t="amd.20150919120205.1"><vh>以下為 reveal 投影片</vh></v>
@@ -485,7 +485,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20160104200415.1" a="E"><vh>@clean cadp_w16_simplest.html</vh>
+<v t="leo.20160104200415.1"><vh>@clean cadp_w16_simplest.html</vh>
 <v t="leo.20160104200415.2"><vh>檔案說明</vh></v>
 <v t="leo.20160104200415.3" a="E"><vh>html 標註</vh>
 <v t="leo.20160104200415.4" a="E"><vh>body 標註</vh>
