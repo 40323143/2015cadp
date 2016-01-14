@@ -22,6 +22,12 @@
 &lt;p&gt;在用Onshape畫出的零件上加上限制條件&lt;/p&gt;
 &lt;iframe src="https://player.vimeo.com/video/150987795" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
+&lt;p&gt;Welcome Speech&lt;/a&gt; from &lt;a href="https://vimeo.com/user24079973"&gt;虎尾科大機械設計工程系 KMOL&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2016 1/14 Leo index 錯誤報告</title><link href="http://example.com/2015cp_hw_w18.html" rel="alternate"></link><updated>2015-12-03T12:41:00+08:00</updated><author><name>coursemdetw</name></author><id>tag:example.com,2015-12-03:2015cp_hw_w18.html</id><summary type="html">&lt;p&gt;以下為作業十六內容&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;    在12周過後發現自己的index在.leo檔修改完後按 &amp;quot;user pelican&amp;quot;後完全沒有起反應，時至今日才知道原來是因為之前做的md檔發生了問題，導致檔案沒有轉檔完成，令index沒因為我更新而更新。&amp;lt;br /&amp;gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;&lt;img src="content/leo index-2.jpg" width="500" alt="手動計算"&gt;&lt;/img&gt;&lt;/p&gt;
 &lt;p&gt;Welcome Speech&lt;/a&gt; from &lt;a href="https://vimeo.com/user24079973"&gt;虎尾科大機械設計工程系 KMOL&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 電腦輔助設計實習 作業十二</title><link href="http://example.com/2015cp_hw_w12.html" rel="alternate"></link><updated>2015-12-03T11:41:00+08:00</updated><author><name>coursemdetw</name></author><id>tag:example.com,2015-12-03:2015cp_hw_w12.html</id><summary type="html">&lt;p&gt;以下為作業十二內容&lt;/p&gt;
 &lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
 &lt;iframe src="cadp_w12_simplest.html" width="500" height="300"&gt;&lt;/iframe&gt;
@@ -37,6 +43,20 @@
 
 &lt;p&gt;creo組裝-2:&lt;/p&gt;
 &lt;iframe src="https://player.vimeo.com/video/147715247" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Welcome Speech&lt;/a&gt; from &lt;a href="https://vimeo.com/user24079973"&gt;虎尾科大機械設計工程系 KMOL&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 電腦輔助設計實習 作業十三</title><link href="http://example.com/2015cp_hw_w13.html" rel="alternate"></link><updated>2015-12-03T11:41:00+08:00</updated><author><name>coursemdetw</name></author><id>tag:example.com,2015-12-03:2015cp_hw_w13.html</id><summary type="html">&lt;p&gt;以下為作業十三內容&lt;/p&gt;
+&lt;p&gt;作業內容投影片:&lt;/p&gt;
+&lt;iframe src=" cadp_w13_simplest.html" width="500" height="300"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;[作業十二投影片]cadp_w12_simplest.html){:target="_blank"}&lt;/p&gt;
+&lt;p&gt;fix.bat 環境修補複習&lt;/p&gt;
+&lt;p&gt;安裝leo影片(同12週):&lt;/p&gt;
+&lt;iframe src="https://player.vimeo.com/video/147714806" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;在tmp目錄中啟動Jupyter(同12週):&lt;/p&gt;
+&lt;p&gt;&lt;iframe src="https://player.vimeo.com/video/147715109" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;/p&gt;
+&lt;p&gt;修改2015fallcadpa組別內容:&lt;/p&gt;
+&lt;iframe src="https://player.vimeo.com/video/151743362" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
 &lt;p&gt;Welcome Speech&lt;/a&gt; from &lt;a href="https://vimeo.com/user24079973"&gt;虎尾科大機械設計工程系 KMOL&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 電腦輔助設計實習 作業十ㄧ</title><link href="http://example.com/2015cp_hw_w11.html" rel="alternate"></link><updated>2015-12-03T10:41:00+08:00</updated><author><name>coursemdetw</name></author><id>tag:example.com,2015-12-03:2015cp_hw_w11.html</id><summary type="html">&lt;p&gt;以下為作業十一內容&lt;/p&gt;
 &lt;p&gt;作業內容投影片:&lt;/p&gt;
